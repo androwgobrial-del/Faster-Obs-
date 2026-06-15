@@ -1,0 +1,6 @@
+{
+  "name": "Faster Obs",
+  "description": "Enter patient data and generate a formatted medical inpatient rounds PDF sheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
